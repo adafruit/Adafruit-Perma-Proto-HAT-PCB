@@ -1,6 +1,6 @@
 # Adafruit-Perma-Proto-HAT-PCB
 
-PCB files for the Adafruit PAM8302 Mono Amplifier
+PCB files for the Adafruit Perma Proto HAT
 
 Format is EagleCAD schematic and board layout
 
