@@ -13,8 +13,6 @@ To kick off the Adafruit HAT party, we have this Perma-Proto inspired plug in da
 
 This is just the basic version of our Perma-Proto HAT.  It comes with a printed circuit board and a single 2x20 GPIO Header for Raspberry Pi to put your Perma-Proto on top of your Raspberry Pi (like a nice little hat...) This version does not come with an EEPROM so you can 'stack' it with other HATs without worrying about an EEPROM address collision.
 
-You can customize your Perma-Proto setup using a standard 2x20 stacking header or extra tall 2x20 stacking header. You can also swap out the 2x20 header with a slim 2x20 type if you want it to sit closer to the Pi, or an extra tall one if you want it to sit above the USB/Ethernet ports.
-
 Format is EagleCAD schematic and board layout
 
 For more details, check out the product pages at
