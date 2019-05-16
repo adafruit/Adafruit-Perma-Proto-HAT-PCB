@@ -17,16 +17,17 @@ You can customize your Perma-Proto setup using a standard 2x20 stacking header o
 
 Format is EagleCAD schematic and board layout
 
-For more details, check out the product page at
+For more details, check out the product pages at
 
 -----> https://www.adafruit.com/products/2310
-
 -----> https://www.adafruit.com/products/2314
 
-Adafruit invests time and resources providing this open source design, 
-please support Adafruit and open-source hardware by purchasing 
-products from Adafruit!
+### License
 
-Designed by Adafruit Industries.  
-Creative Commons Attribution, Share-Alike license, check license.txt for more information
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
 All text above must be included in any redistribution
+
+Designed by Limor Fried/Ladyada and Kevin Townsend for Adafruit Industries.
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution
+
