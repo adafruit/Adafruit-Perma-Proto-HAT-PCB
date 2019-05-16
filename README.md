@@ -1,6 +1,6 @@
 # Adafruit Perma-Proto HAT for Raspberry Pi Computers (all with the 40 pin header) PCB Files
 
-<a href="http://www.adafruit.com/products/2310"><img src="assets/2310.jpg?raw=true" width="500px"></a>&nbsp; <a href="http://www.adafruit.com/products/2314"><img src="assets/2314.jpg?raw=true" width="500px"></a>
+<a href="http://www.adafruit.com/products/2310"><img src="assets/2310.jpg?raw=true" width="400px"></a>&nbsp; <a href="http://www.adafruit.com/products/2314"><img src="assets/2314.jpg?raw=true" width="400px"></a>
 Click to purchase from the Adafruit Shop:
 - [With EEPROM](https://www.adafruit.com/product/2314)
 - [Without EEPROM](https://www.adafruit.com/product/2310)
