@@ -1,4 +1,4 @@
-# Adafruit Perma-Proto HAT for Raspberry Pi Computers PCB Files
+# Adafruit Perma-Proto HAT for Raspberry Pi Computers
 
 <a href="http://www.adafruit.com/products/2310"><img src="assets/2310.jpg?raw=true" width="400px"></a>&nbsp; <a href="http://www.adafruit.com/products/2314"><img src="assets/2314.jpg?raw=true" width="400px"></a><br />
 Click to purchase from the Adafruit Shop:
