@@ -25,10 +25,9 @@ For more details, check out the product pages at
 
 ### License
 
-Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by [purchasing products from Adafruit](https://www.adafruit.com)!
 
 All text above must be included in any redistribution
 
 Designed by Limor Fried/Ladyada for Adafruit Industries.
 Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution
-
